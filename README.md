@@ -31,9 +31,13 @@
 
 ### 📊 GitHub Stats
 
-![Marouan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marouanbouderz&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marouanbouderz&show_icons=true&theme=tokyonight" alt="Marouan's GitHub stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marouanbouderz&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouanbouderz&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ### 📫 Let's Connect
 
