@@ -29,16 +29,6 @@
 
 🥊 **[Inaghan_2d](https://github.com/marouanbouderz/Inaghan_2d)** — A 2D fighting game built with Vanilla JavaScript, HTML5 Canvas, and CSS. Features dynamic HUD, health-based color states, platform collision physics, and pixel-art style.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouanbouderz&show_icons=true&theme=tokyonight" alt="Marouan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouanbouderz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouan-bouderz-abb91a339)
